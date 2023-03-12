@@ -1,5 +1,5 @@
 ## Melting-Face
-### Main Languages
+### Languages
 ---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Melting-Face&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
 

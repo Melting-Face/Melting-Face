@@ -7,7 +7,7 @@
 
 ### [Leetcode](https://github.com/Melting-Face/leetcode)
 ---
-![Leetcode Stats](https://leetcode-stats-six.vercel.app/?username=Melting-Face&theme=dark)
+![Leetcode Stats](https://leetcard.jacoblin.cool/Melting-Face?ext=activity)
 
 <br>
 
